@@ -1,2 +1,5 @@
-# udemy-courses
-Tutorial code from Udemy courses
+# Udemy
+Working through different courses on Udemy - will be committing code examples here for future reference
+
+Courses covered:
+* The Complete Node.js Developer Course (2nd Edition)
